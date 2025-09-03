@@ -1,0 +1,13 @@
+# Node modules
+node_modules/
+ 
+# Prisma database
+prisma/dev.db
+prisma/dev.db-journal
+
+# Environment variables
+.env
+
+# Build files
+build/
+dist/
